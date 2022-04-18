@@ -1,0 +1,126 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+   
+}
+.header{
+    width: 100%;
+    height: 300px;
+    background-color: rgb(49, 204, 35);
+}
+.header-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
+.header-img{
+    margin-right: 40px;
+}
+.profile{
+    height: 210px;
+    border-radius: 50%;
+
+}
+.header-title h1{
+    font-weight: 600;
+    font-size: 42px;
+}
+.navbar{
+    display: flex;
+    justify-content: center;
+}
+.nav-links{
+    list-style: none;
+}
+.nav-ul{
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+    align-items: center;
+    padding: 20px;
+}
+.nav-links a{
+    text-decoration: none;
+    margin-left: 30px;
+    font-size: 22px;
+    color: black;
+  
+}
+
+.about-me{
+    margin: 60px 70px 0px 70px;
+}
+.content-heading{
+    border-bottom: 3px solid black;
+    padding: 20px;
+}
+.about-text{
+    padding: 40px;
+}
+.education-me{
+    margin: 0px 70px 0px 70px;
+  }
+  .education-content-heading{
+      border-bottom: 3px solid black;
+      padding: 20px;
+  }
+  .education-text{
+      padding: 40px;
+  }
+  .skills-me{
+    margin: 0px 70px 0px 70px;
+  }
+  .skills-content-heading{
+    border-bottom: 3px solid rgb(227, 106, 106);
+      padding: 20px;
+  }
+  .skills-text{
+      padding: 40px;
+  }
+  .Code-Example-me{
+    margin: 0px 70px 0px 70px;
+  }
+  .Code-Example-heading{
+    border-bottom: 3px solid rgb(227, 106, 106);
+      padding: 20px;
+  }
+  .Example-code{
+      padding: 40px;
+  }
+  .language-me{
+    margin: 0px 70px 0px 70px;
+  }
+  .language-heading{
+    border-bottom: 3px solid rgb(227, 106, 106);
+      padding: 20px;
+  }
+  .language-text{
+      padding: 40px;
+  }
+  .contact-me{
+    margin: 0px 70px 0px 70px;
+  }
+  .contact-content-heading{
+      border-bottom: 3px solid rgb(227, 106, 106);
+      padding: 20px;
+  }
+  .contact-text{
+      padding: 40px;
+  }
+  .contact-text svg{
+      margin-right: 20px;
+  }
+  .footer-me{
+    background-color: rgb(49, 204, 35);
+  }
+  .footer-box{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+.footerimg{
+    height: 100px;
+    margin: 0px 40px;
+}
